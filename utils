@@ -1,5 +1,0 @@
-<script>start("/Users/amedeo/Desktop/WhatIf/utils/");</script>
-<script>onHasParentDirectory();</script>
-<script>addRow("__init__.py","__init__.py",0,0,"0 B",1740058514,"2/20/25, 2:35:14 PM");</script>
-<script>addRow("neo4j_connector.py","neo4j_connector.py",0,7902,"7.7 kB",1740854646,"3/1/25, 7:44:06 PM");</script>
-<script>addRow("nx_neo4j_adapter.py","nx_neo4j_adapter.py",0,1526,"1.5 kB",1740063130,"2/20/25, 3:52:10 PM");</script>
